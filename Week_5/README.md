@@ -33,6 +33,9 @@
 
 # Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
 
+## Langkah 3 - 10
+![alt text](../Week_5/img/Langkah3sampai10-3.png)
+
 ## Langkah 11
 ![alt text](../Week_5/img/Langkah11-3.png)
 
