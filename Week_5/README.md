@@ -1,6 +1,6 @@
 # **#05 | Aplikasi Pertama dan Widget Dasar Flutter**
 
-**NiM** = 2241720056
+**NIM** = 2241720056
 
 **Nama** = Dhika Wahyu Nugroho
 
@@ -71,3 +71,38 @@
 
 ## Langkah 6: Date and Time Pickers
 ![alt text](../Week_5/img/Langkah5-5.png)
+
+# Tugas Praktikum
+
+## Membuat Project Baru (flutter_application_1)
+![alt text](../Week_5/img/TugasPraktikum-1.png)
+
+## Pada pubspec.yaml
+![alt text](../Week_5/img/TugasPraktikum-2.png)
+
+## Pada analysis_options.yaml
+![alt text](../Week_5/img/TugasPraktikum-3.png)
+
+## Pada main.dart
+![alt text](../Week_5/img/TugasPraktikum-4.png)
+
+## Hasil dari main.dart
+![alt text](../Week_5/img/TugasPraktikum-5.png)
+
+## Adding a button
+![alt text](../Week_5/img/TugasPraktikum-6.png)
+
+## Pemanggilan getNext() Button
+![alt text](../Week_5/img/TugasPraktikum-7.png)
+
+## Make the app prettier
+![alt text](../Week_5/img/TugasPraktikum-8.png)
+
+## Add functionality
+![alt text](../Week_5/img/TugasPraktikum-9.png)
+
+## Add navigation rail
+![alt text](../Week_5/img/TugasPraktikum-10.png)
+
+## Add a new page
+![alt text](../Week_5/img/TugasPraktikum-11.png)
